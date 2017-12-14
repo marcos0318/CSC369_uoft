@@ -8,3 +8,6 @@
 * Assignment 4 - File Systems
 
 The details are here: http://www.teach.cs.toronto.edu/~csc369h/fall/assignments.html
+
+I am not the only contributor. These are shared work with Willian Le.
+The version control is not in git, but in svn. The work is done through out the semester, but still cannot get the blocks greener anyway.
