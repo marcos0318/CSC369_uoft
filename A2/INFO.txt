@@ -1,0 +1,11 @@
+William Le and Jiaxin Bai
+lewilli1  baijiax1
+Revision number: 7
+
+DISCUSSION:
+No starvation happens.
+Because there is only two threads for each consumer/producer problem (Each lane 
+only has 2 threads, one for arrive and one for cross). Each function also is properly
+scheduled and signales the other to indicate their turn under the right conditions. This
+means with our monitor, for each lane can alternate preference between the consumer and producer.
+We would not run into situations where there is always a waiting producer/consumer (there is only one each). 
