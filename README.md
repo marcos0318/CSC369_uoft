@@ -7,4 +7,4 @@
 * Assignment 3 - Page Tables and Replacement Algorithms
 * Assignment 4 - File Systems
 
-
+The details are here: http://www.teach.cs.toronto.edu/~csc369h/fall/assignments.html
